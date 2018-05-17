@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="MonadicErrorHandling.fs" />
+    <Compile Include="ExceptionwiseErrorHandling.fs" />
+    <Compile Include="ManualErrorHandling.fs" />
+    <Compile Include="NoErrorHandling.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cvdm.ErrorHandling" Version="0.5.1" />
+  </ItemGroup>
+
+</Project>

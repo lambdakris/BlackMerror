@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BlackMerror", "BlackMerror\BlackMerror.fsproj", "{196EC71C-9C50-4912-AB19-4895104CB096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196EC71C-9C50-4912-AB19-4895104CB096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196EC71C-9C50-4912-AB19-4895104CB096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196EC71C-9C50-4912-AB19-4895104CB096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196EC71C-9C50-4912-AB19-4895104CB096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D876E1-B1D5-4E28-A458-1221EAAC0589}
+	EndGlobalSection
+EndGlobal
